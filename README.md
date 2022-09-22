@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sugavanesh
 - 👀 I’m a Full Stack Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 📫 How to reach me in sugavanesh64@gmail.com
 
 <!---
 Sugavanesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
